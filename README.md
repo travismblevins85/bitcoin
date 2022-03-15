@@ -1,2 +1,4 @@
 # bitcoin
-A small representation of Bitcoin's influence over some of the crypto market
+A representation of how Bitcoin dominates the cryptocurrency market.  Whatever Bitcoin does, the majority of the market follows Bitcoin's path, trendwise.  This  means the prices, volume, etc., all follow a similar trend, which is amazing and much different than the stock market, because even it's competitors will follow the trend.  Cryptos are highly volatile and can change from second to second, but with enough analysis, you can determine an uptrend or downtrend, which at the end of the day is every investor's purpose.
+
+I chose to give a small amount of background information on the 3 coins i chose at the beginning, then i chose to display a years worth of trendlines to show visually the similarities.  Last, I chose to print out the current daily percentage changes, which hopefully,"fingers crossed", will be similar.  If Bitcoin is down, i believe that the other two will be down, or headed in that direction, or vice versa.
